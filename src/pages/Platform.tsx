@@ -27,8 +27,8 @@ const fadeInUp = {
 const modules = [
   {
     icon: FolderKanban,
-    title: "Matter Management",
-    description: "Central hub for all your legal matters",
+    title: "Case Management",
+    description: "Central hub for all your legal cases",
     features: [
       "Create and categorize matters with custom fields",
       "Track status, deadlines, and key events",
